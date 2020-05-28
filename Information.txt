@@ -1,0 +1,32 @@
+http://localhost/Hotel/
+Начальная страница
+http://localhost/Hotel/admin/index.php
+Админка
+Файлы:
+db.php - присоединение базы данных
+hotel.sql - база данных
+index.php - главный лендинг
+admin:
+db.php - присоединение базы данных
+home.php - главная страница админа
+index.php - страница логирования
+logout.php - переброс на главную при выходе
+messages.php - сообщения
+newsletter.php - новостная лента
+newsletterdel.php - очистка ленты
+payment.php - страница оплаты
+print.php - вывод данных
+profit.php - подсчет цен
+reservation.php - бронирование
+room.php - добавление комнаты
+roombook.php - вывод комнат
+roomdel.php - удаление комнаты
+settings.php - настройки 
+show.php - информация о госте
+usersettings.php - настройки пользователя
+usersettingsdel.php - удаление пользователя
+Название базы данных : - hotel.sql
+user name : - Admin
+password  : - 1234
+
+
